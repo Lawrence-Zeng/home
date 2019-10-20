@@ -1,17 +1,19 @@
 body 
 {
-font-family: “PilGi”;
-    text-align: justify;
-  background-color: powderblue;
+	font-family: “PilGi”;
+	text-align: justify;
+	background-color: powderblue;
 }
 h1 
 {
-   font-family:Apple Chancery;  
-	     		 font-size:80px;
-	     		 color:blue;
-	     		 text-align:center;
+	font-family:Apple Chancery;  
+	font-size:80px;
+    	color:blue;
+	text-align:center;
 }
 p 
 {
-  color: yellow;
+	font-family:Bradley Hand;
+	font-size:20px;
+	color:black;
 }
