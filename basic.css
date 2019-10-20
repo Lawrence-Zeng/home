@@ -6,7 +6,10 @@ font-family: “PilGi”;
 }
 h1 
 {
-  color: blue;
+   font-family:Apple Chancery;  
+	     		 font-size:80px;
+	     		 color:blue;
+	     		 text-align:center;
 }
 p 
 {
